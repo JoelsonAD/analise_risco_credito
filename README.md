@@ -26,7 +26,7 @@ A análise atual, contida no notebook `Analise_Exploratoria.ipynb`, foca exclusi
 
 1.  **Clone este repositório:**
     ```bash
-    git clone <URL-do-seu-repositorio-github>
+    git clone https://github.com/JoelsonAD/analise_risco_credito.git
     cd analise_risco_credito
     ```
 
